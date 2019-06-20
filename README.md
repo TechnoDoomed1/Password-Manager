@@ -6,8 +6,8 @@ Originally it was made for personal use only, but a few days ago a friend reques
 ### For anyone interested in using it
 You'll need Python 3 installed to use this Password Manager. It will create two files called "datafile.tsv" and "hash.dat" which store your encrypted passwords, and your encrypted master password's hash respectively. 
 
-**DON'T LOSE THOSE FILES, OR YOU'LL LOSE ACCESS TO YOUR STORED PASSWORDS**
+*DON'T LOSE THOSE FILES, OR YOU'LL LOSE ACCESS TO YOUR STORED PASSWORDS*
 
 Also, don't forget your master password, or you won't be able to enter the Manager ever again. Let me make it clear again by using bold uppercase letters: 
 
-####DON'T LOSE FILES CREATED BY THIS MANAGER, OR LOSE/FORGET YOUR MASTER PASSWORD! IF YOU DO, YOU'LL LOSE EVERYTHING YOU STORED!!
+**DON'T LOSE FILES CREATED BY THIS MANAGER, OR LOSE/FORGET YOUR MASTER PASSWORD! IF YOU DO, YOU'LL LOSE EVERYTHING YOU STORED!!**
