@@ -1,0 +1,2 @@
+# Password-Manager
+A password manager of my own that I created out of curiosity to see if I'd be capable to do such a thing. Seemed easy enough, and was a pretty relaxing thing to devote my times between finals. It uses my own cryptosystem because... well, why not? I wanted to put it to use instead of just looking pretty on my hard drive. Originally made for personal use only, but a few days ago a friend requested it, so I made some extra changes to be used for anyone who fancies it.
